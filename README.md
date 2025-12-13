@@ -6,7 +6,7 @@ It is a Binary Classification problem where the target variable indicates abnorm
 
 ## 🧠 Project Highlights  
 - **Type:** Binary Classification  
-- **Language:** Python 🐍  
+- **Language:** Python 🐍 
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 - **Dataset:** Synthetic Engine Dataset — 60 numeric features with controlled noise for machine learning experiments  
 - **Data Type:** All numeric, making preprocessing and model training straightforward  
