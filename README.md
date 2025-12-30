@@ -1,4 +1,4 @@
-# ⚙ Engine Vibration Classification  
+# ⚙ Engine Vibration Classification 
 
 ## 📘 Overview  
 This project uses Machine Learning techniques to classify engine vibration states.  
